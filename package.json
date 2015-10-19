@@ -1,10 +1,10 @@
 {
-  "name": "alex",
+  "name": "alex-synthax",
   "author": "Alex <alexandre.enehc@gmail.com>",
   "owner": "Alex",
   "repository": "https://github.com/aenehc/alex-synthax",
   "theme": "syntax",
-  "version": "0.5.1",
+  "version": "0.0.0",
   "description": "alex synthax",
   "readmeFilename": "README.md"
 }
