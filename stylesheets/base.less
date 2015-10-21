@@ -368,15 +368,27 @@
   }
 }
 
-// CSS/LESS
+// CSS/LESS/SASS
 .keyword.control.at-rule.import.css {
   font-weight: bold;
   color: #f7f09d;
 }
 
-.support.type.property-name.css {
+.meta.property-name.css,
+.meta.property-name.scss {
   color: #eee;
 }
+
+.meta.property-value.css,
+.meta.property-value.scss {
+  .constant {
+      color: #ffe792;
+  }
+  .terminator {
+      color: #eee;
+  }
+}
+
 
 .variable.other.sass,
 .variable.other.less {
